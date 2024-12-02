@@ -1,4 +1,4 @@
-# Cryptocurrency-Predictor
+# Cryptocurrency Price Predictor
 
 ## Introduction to Dataset
 - The input data was sourced from the Binance Exchange API.
